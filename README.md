@@ -1,6 +1,6 @@
-# chat_app
+# NAAN MUDHALVAN PROJECT
 
-A new Flutter application.
+ShopEZ: E-Commerce Application
 
 ## Getting Started
 
